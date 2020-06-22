@@ -8,6 +8,7 @@ public class Barang implements Serializable {
     private String nama;
 
     public Barang() {
+
     }
 
     public String getKode() {
